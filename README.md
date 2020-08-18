@@ -1,4 +1,4 @@
-# random_tree_classifier
+# random_forest_classifier
 
 <p align="center">
 <img src = "https://github.com/brentthayer1/supervised-learning-case-study/blob/master/img/header.jpg" class = "center" width = "300" height = "200"/>
