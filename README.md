@@ -1,7 +1,7 @@
 # random_forest_classifier
 
 <p align="center">
-<img src = "https://github.com/MatthewNewell006/random_forest_classifier/blob/master/img/random_forest_classifier_header.png" class = "center" width = "350" height = "300"/>
+<img src = "https://github.com/MatthewNewell006/random_forest_classifier/blob/master/img/random_forest_classifier_header.png" class = "center" width = "400" height = "300"/>
 </p>
 
 ## Overview
